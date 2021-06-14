@@ -1,0 +1,43 @@
+body {
+    font-family: 'Roboto', sans-serif;
+} 
+
+.logo-navbar {
+    height: 1.5625rem;
+    width: 5.375rem;
+}
+
+.fondo-color {
+    background-color: #2ba745!important;
+}
+
+.parrafo {
+    color: #212529;
+}
+
+.ubicacion {
+    color: #707070;
+}
+
+.letra-chica {
+    font-size: 0.85rem;
+}
+
+.precio {
+    font-size: 1.3rem;
+    color: #2ba745;
+}
+
+.letra {
+    font-size: 1.3rem;
+}
+
+.boton {
+    height: 2.5rem;
+    width: 7.044375rem;
+}
+
+.logo-footer {
+    height: 1.5rem;
+    width: 5.125rem;
+}
